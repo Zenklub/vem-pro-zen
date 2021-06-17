@@ -1,20 +1,20 @@
 <center><img src="./images/zenklub_full_logo.svg" alt="Zenklub Logo" width="50%" height="whatever" /></center>
 
-# 💜 Seja um [Zen](https://www.zenklub.com.br)!
+# 💜 Vem pro [Zen](https://www.zenklub.com.br)!
 
 Aqui no [Zenklub](https://www.zenklub.com.br) trabalhamos em times. Nosso time é multidisciplinar, com foco no produto e na evolução tecnológica dos nossos sistemas. 
 
-Em um ambiente descontraído, prezamos pela qualidade e participação ativa dos desenvolvedores na construção da nossa plataforma. Temos um carinho especial pelo usuário, direcionando nossas decisões pela experiência e fazendo constantes ajustes para alinhar os nossos sistemas com as necessidades do mercado.
+Em um ambiente descontraído, prezamos pela qualidade e participação ativa dos desenvolvedores e desenvolvedoras na construção da nossa plataforma. Temos um carinho especial pelo usuário, direcionando nossas decisões pela experiência e fazendo constantes ajustes para alinhar os nossos sistemas com as necessidades do mercado.
 
 Hoje trabalhamos com alguns grandes produtos:
 
-- **Zenklub Para Usuários**: uma ferramenta que tem como objetivo auxiliar pessoas comuns, como eu e você em suas jornadas de saúde mental, oferecendo conteúdos exclusivos e uma vasta lista de profissionais (use e veja **;)**);
-- **ZenOffice para Profissionais**: o consultório online dos profissionais, ajudamos os profissionais a organizarem o trabalho, e economizarem ao optarem por um escritório online no lugar de um escritório físico.
-- **B2B**: além dos usuários e profissionais, empresas são clientes importantes no nosso dia a dia, e por isto temos uma equipe dedicada a eles.
+- **Zenklub Para Usuários**: uma ferramenta que tem como objetivo auxiliar pessoas comuns, como eu e você em suas jornadas de saúde mental, oferecendo conteúdos exclusivos e uma vasta lista de profissionais (use e veja 😄);
+- **ZenOffice para Profissionais**: o consultório online dos profissionais, ajudamos os profissionais a organizarem o trabalho, e economizarem ao optarem por um escritório online no lugar de um escritório físico, além de claro, aproximá-los de usuários que não estão fisicamente próximos.
+- **B2B**: além dos usuários e profissionais, empresas são clientes importantes no nosso dia a dia, e por isto temos uma equipe dedicada à elas.
 
 Afetamos diariamente milhares de pessoas, e temos o constante desafio de democratizar o acesso à saúde mental, e para isto precisamos usar todos os canais disponíveis: web, mobile e plataforma para a divulgação de conteúdo, aquisição de usuários e a manutenção devida de algumas informações. Por isto estamos discutindo constantemente o papel de tecnologia na evolução do produto e na experiência dos usuários e clientes como um todo.
 
-No **zenklub** equipes de tecnologia, design e produto trabalham muito próximas umas das outras.ipe de design e produto.
+No **zenklub** equipes de tecnologia, design e produto trabalham muito próximas umas das outras.
 
 ### ✨ Nossa Stack
 Hoje trabalhamos principalmente com `node.js`, tanto do lado de **back** quando de **front** e **mobile**. De uma forma simplificada nossa stack tem:
@@ -59,7 +59,7 @@ O objetivo do desafio é saber que tipo de desenvolvedor ou desenvolvedora você
 
 ### ⭐ Como entrego?
 
-Você nos envia um e-mail para **vagas[arroba]zenklub[ponto]com[ponto]br** contendo:
+Você nos envia um e-mail para **jobs[arroba]zenklub[ponto]com** contendo:
 
 - Seu **nome completo**;
 - Seu **telefone** para contato;
@@ -78,13 +78,13 @@ Cuide do repositório que vai mandar. Crie um readme.md, dê um nome semântico,
 - Se aplicável, URL para o [**GH-Pages**](https://pages.github.com/) com uma versão **compilada** da sua aplicação;
 - Tire prints e deixe no readme do repositório
 
-**Mas eu estou empregado e não posso deixar isso público ou não vou usar github :(**
+**Mas eu estou empregado e não posso deixar isso público ou não vou usar github 😥**
 
-Hoje o github suporta repositórios privados, você pode deixar seu challenge privado e dar permissão para o **zenklub**. Se não puder abrir o código fonte em um repositório, nos envie **compactado** e sem o **node_modules**.
+Hoje o github suporta repositórios privados, você pode deixar seu challenge privado e dar permissão para o **zenklub**. Se não puder colocar o código fonte em um repositório, nos envie **compactado** e sem o **node_modules**.
 
 ### ✔️ Pontos de avaliação
 
-Veja, esse teste, além de um desafio, é uma forma de explorar e expressar sua desenvoltura com a plataforma escolhida. O foco da avaliação é a sua familiaridade com o desenvolvimenteo e suas principais características, lembrando que há um caráter seletivo. 
+Veja, isto além de um desafio, é uma forma de explorar e expressar sua desenvoltura com a plataforma escolhida. O foco da avaliação é a sua familiaridade com o desenvolvimenteo e suas principais características, lembrando que há um caráter seletivo. 
 
 Nesse sentido, alguns pontos que devem ser observados:
 
