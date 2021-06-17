@@ -1,4 +1,5 @@
-![Zenklub Logo](./images/zenklub_full_logo.svg | width=300)
+<center><img src="./images/zenklub_full_logo.svg" alt="Zenklub Logo" width="50%" height="whatever" /></center>
+
 # 💜 Seja um [Zen](https://www.zenklub.com.br)!
 
 Aqui no [Zenklub](https://www.zenklub.com.br) trabalhamos em times. Nosso time é multidisciplinar, com foco no produto e na evolução tecnológica dos nossos sistemas. 
