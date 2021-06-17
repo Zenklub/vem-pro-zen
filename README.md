@@ -1,4 +1,5 @@
-# Seja um [Zen](https://www.zenklub.com.br)!
+![Zenklub Logo](./images/zenklub_full_logo.svg | width=300)
+# 💜 Seja um [Zen](https://www.zenklub.com.br)!
 
 Aqui no [Zenklub](https://www.zenklub.com.br) trabalhamos em times. Nosso time é multidisciplinar, com foco no produto e na evolução tecnológica dos nossos sistemas. 
 
@@ -14,7 +15,7 @@ Afetamos diariamente milhares de pessoas, e temos o constante desafio de democra
 
 No **zenklub** equipes de tecnologia, design e produto trabalham muito próximas umas das outras.ipe de design e produto.
 
-### Nossa Stack
+### ✨ Nossa Stack
 Hoje trabalhamos principalmente com `node.js`, tanto do lado de **back** quando de **front** e **mobile**. De uma forma simplificada nossa stack tem:
 
 - typescript
@@ -30,7 +31,7 @@ Hoje trabalhamos principalmente com `node.js`, tanto do lado de **back** quando 
 - prometheus
 - loki
 
-### Gostou de tudo que está aí em cima? Então vem pra cá!!!
+### ⭐ Gostou de tudo que está aí em cima? Então vem pra cá!!!
 
 Você quer trabalhar no **Zenklub**? Vamos te ajudar! Primeiro vamos falar sobre o processo seletivo! Ele é dividido em algumas etapas. 
 
@@ -39,7 +40,7 @@ Você quer trabalhar no **Zenklub**? Vamos te ajudar! Primeiro vamos falar sobre
 - Uma conversa com nossa **equipe técnica**
 - Conversa com um dos fundadores do **zenklub**;
 
-### Qual o tal desafio técnico?
+### ⭐ Qual o tal desafio técnico?
 
 Estamos procurando profissionais que estejam bem familiarizados com a stack que estamos utilizando, independente da área. Então, nossa proposta é a seguinte:
 
@@ -55,7 +56,7 @@ O objetivo do desafio é saber que tipo de desenvolvedor ou desenvolvedora você
 - testes automatizados, legíveis e com uma cobertura considerável
 - ambiente de teste simples e funcional
 
-### Como entrego?
+### ⭐ Como entrego?
 
 Você nos envia um e-mail para **vagas[arroba]zenklub[ponto]com[ponto]br** contendo:
 
@@ -68,7 +69,7 @@ Você nos envia um e-mail para **vagas[arroba]zenklub[ponto]com[ponto]br** conte
 
 Em alguns dias te retornaremos.
 
-#### Com Git
+#### ⭐ Com Git
 
 Cuide do repositório que vai mandar. Crie um readme.md, dê um nome semântico, zele pelo conteúdo que vai entregar. Lembre-se, esse desafio é um resumo de como você trabalha.
 
@@ -80,7 +81,7 @@ Cuide do repositório que vai mandar. Crie um readme.md, dê um nome semântico,
 
 Hoje o github suporta repositórios privados, você pode deixar seu challenge privado e dar permissão para o **zenklub**. Se não puder abrir o código fonte em um repositório, nos envie **compactado** e sem o **node_modules**.
 
-### Pontos de avaliação
+### ✔️ Pontos de avaliação
 
 Veja, esse teste, além de um desafio, é uma forma de explorar e expressar sua desenvoltura com a plataforma escolhida. O foco da avaliação é a sua familiaridade com o desenvolvimenteo e suas principais características, lembrando que há um caráter seletivo. 
 
@@ -93,7 +94,7 @@ Nesse sentido, alguns pontos que devem ser observados:
 - Siga as boas práticas da ferramenta escolhida, bem como respeite as boas práticas do javascript/typescript (um linter pode te ajudar).
 - Codifique como você gostaria de trabalhar.
 
-### O que provavelmente vamos olhar
+### 🔥 O que provavelmente vamos olhar
 
 - Organização de `pastas`
 - Imports no `package.json`
@@ -110,7 +111,7 @@ Vamos ler seu código, apreciar o resultado, olhar, testar. Invista o tempo nece
 
 Obrigado e boa sorte!
 
-### Mas e aí, quais são os desafios?
+### ⭐ Mas e aí, quais são os desafios?
 
 Hoje temos estes aqui:
 
@@ -118,7 +119,7 @@ Hoje temos estes aqui:
 - [Desafio Web](https://github.com/Zenklub/seja-um-zen-front)
 - [Desafio Mobile](https://github.com/Zenklub/seja-um-zen-mobile)
 
-## Licença
+## ⭐ Licenças
 
 <a rel="license" href="http://creativecommons.org/licenses/by/3.0/br/"><img alt="Licença Creative Commons" style="border-width:0" src="https://i.creativecommons.org/l/by/3.0/br/88x31.png" /></a><br />Este repositório, texto, códigos e forks estão licenciados com uma Licença <a rel="license" href="http://creativecommons.org/licenses/by/3.0/br/">Creative Commons Atribuição 3.0 Brasil</a>.
 
